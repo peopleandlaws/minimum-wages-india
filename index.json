@@ -1,6 +1,6 @@
 {
-  "base": "https://raw.githubusercontent.com/peopleandlaws/minimum-wages-india/main/minimum-wages",
-  "version": "2025-09-24",
+ 
+const INDEX_URL = 'https://raw.githubusercontent.com/peopleandlaws/minimum-wages-india/main/index.json';
   "states": {
     "Andaman and Nicobar Islands": "wages_andaman-and-nicobar.csv",
     "Andhra Pradesh": "wages_andhra-pradesh.csv",
