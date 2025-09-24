@@ -1,8 +1,8 @@
 {
- 
-const INDEX_URL = 'https://raw.githubusercontent.com/peopleandlaws/minimum-wages-india/main/index.json';
+  "base": "https://raw.githubusercontent.com/peopleandlaws/minimum-wages-india/main",
+  "version": "2025-09-24",
   "states": {
-    "Andaman and Nicobar Islands": "wages_andaman-and-nicobar.csv",
+    "Andaman and Nicobar Islands": "wages_andaman-and-nicobar-islands.csv",
     "Andhra Pradesh": "wages_andhra-pradesh.csv",
     "Arunachal Pradesh": "wages_arunachal-pradesh.csv",
     "Assam": "wages_assam.csv",
@@ -18,31 +18,22 @@ const INDEX_URL = 'https://raw.githubusercontent.com/peopleandlaws/minimum-wages
     "Jammu & Kashmir": "wages_jammu-and-kashmir.csv",
     "Jharkhand": "wages_jharkhand.csv",
     "Karnataka": "wages_karnataka.csv",
+    "Kerala": "wages_kerala.csv",
     "Madhya Pradesh": "wages_madhya-pradesh.csv",
     "Maharashtra": "wages_maharashtra.csv",
     "Manipur": "wages_manipur.csv",
     "Mizoram": "wages_mizoram.csv",
     "Nagaland": "wages_nagaland.csv",
     "Odisha": "wages_odisha.csv",
-
-    "Kerala": "wages_kerala.csv",
     "Puducherry": "wages_puducherry.csv",
-    "Tamil Nadu": "wages_tamil-nadu.csv",
-    "Telangana": "wages_telangana.csv",
     "Punjab": "wages_punjab.csv",
     "Rajasthan": "wages_rajasthan.csv",
     "Sikkim": "wages_sikkim.csv",
+    "Tamil Nadu": "wages_tamil-nadu.csv",
+    "Telangana": "wages_telangana.csv",
     "Tripura": "wages_tripura.csv",
     "Uttar Pradesh": "wages_uttar-pradesh.csv",
     "Uttarakhand": "wages_uttarakhand.csv",
     "West Bengal": "wages_west-bengal.csv"
   }
-}{
-  "base": "https://raw.githubusercontent.com/peopleandlaws/minimum-wages-india/main",
-  "version": "2025-09-24",
-  "states": {
-    "Andaman and Nicobar Islands": "wages_andaman-and-nicobar-islands.csv"
-    // ...other states
-  }
 }
-
