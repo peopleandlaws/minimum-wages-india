@@ -37,4 +37,12 @@
     "Uttarakhand": "wages_uttarakhand.csv",
     "West Bengal": "wages_west-bengal.csv"
   }
+}{
+  "base": "https://raw.githubusercontent.com/peopleandlaws/minimum-wages-india/main",
+  "version": "2025-09-24",
+  "states": {
+    "Andaman and Nicobar Islands": "wages_andaman-and-nicobar-islands.csv"
+    // ...other states
+  }
 }
+
